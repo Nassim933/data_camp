@@ -1,0 +1,8 @@
+requests
+BeautifulSoup
+bs4
+csv
+pickle
+spotipy
+pandas
+numpy
